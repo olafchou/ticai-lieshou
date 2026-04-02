@@ -51,33 +51,6 @@ https://github.com/olafchou/stock-catalyst-hunter 帮我安装一下这个skill
 
 这是最省事的 GitHub 安装方式。
 
-#### 方式 B：手动复制到本地 skills 目录
-
-根据 OpenClaw 官方文档，技能可以放到以下目录之一：
-
-- 当前工作区的 `skills/`
-- `~/.openclaw/skills/`
-- `~/.agents/skills/`
-- 当前工作区的 `.agents/skills/`
-
-安装步骤：
-
-1. 克隆仓库：
-
-```bash
-git clone https://github.com/olafchou/stock-catalyst-hunter.git
-cd stock-catalyst-hunter
-```
-
-2. 把 `stock-catalyst-hunter/` 目录复制到你的 OpenClaw 技能目录，例如：
-
-```bash
-mkdir -p ~/.openclaw/skills
-cp -R ./stock-catalyst-hunter ~/.openclaw/skills/stock-catalyst-hunter
-```
-
-3. 重新启动会话，或重新加载 skills，让新技能出现在当前环境里。
-
 ### 安装后怎么使用
 
 安装完成后，用这类意图触发：
