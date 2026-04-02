@@ -1,6 +1,6 @@
-# 股票题材猎手
+# Stock Catalyst Hunter
 
-`股票题材猎手` 是一个面向支持 skill 的 agent 环境的 A 股题材映射技能。
+`Stock Catalyst Hunter` 是一个面向支持 skill 的 agent 环境的 A 股题材映射技能。
 
 它接收一段新闻、传闻、政策变化、突发事件或截图，不做冗长新闻总结，而是直接把事件映射成更可能相关的 A 股方向和个股，并用简洁表格给出概率、时间维度和分析理由。
 
@@ -39,7 +39,7 @@
 
 ### 方式 1：通过 SkillHub 安装
 
-[股票题材猎手 - SkillHub](https://skillhub.tencent.com/skills/ticai-lieshou)
+[Stock Catalyst Hunter - SkillHub](https://skillhub.tencent.com/skills/ticai-lieshou)
 
 ### 方式 2：通过 GitHub 手动安装
 
