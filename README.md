@@ -37,11 +37,7 @@
 
 ## 安装方式
 
-### 方式 1：通过 SkillHub 安装
-
-[Stock Catalyst Hunter - SkillHub](https://skillhub.tencent.com/skills/stock-catalyst-hunter)
-
-### 方式 2：通过 GitHub 手动安装
+### 通过 GitHub 安装
 
 适合想自己维护、调试或二次修改的用户。
 
