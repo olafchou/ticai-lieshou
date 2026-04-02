@@ -142,14 +142,6 @@ cp -R ./stock-catalyst-hunter ~/.openclaw/skills/stock-catalyst-hunter
 - 事件合理性判断下沉到补充说明
 - 移除“核心信息提取”这类中间展示风格
 
-当前已发布平台：
-
-- SkillHub
-
-当前未发布平台：
-
-- ClawHub
-
 后续可以继续补：
 
 - 发布平台适配元数据
