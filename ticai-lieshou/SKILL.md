@@ -1,6 +1,6 @@
 ---
 name: ticai-lieshou
-description: Use this skill when the user wants to know which A-share themes or stocks may react to a news event, rumor, policy change, geopolitical development, industry disruption, or screenshot. It should identify the event, search Chinese financial platforms, distinguish hard logic from market hype, and output ranked A-share theme and stock mappings.
+description: 当用户想知道一条新闻、传闻、政策变化、地缘事件、行业扰动或截图会对应哪些 A 股题材和股票时，使用这个 skill。它会识别事件、搜索中文财经平台信息、区分硬逻辑和题材炒作，并输出排序后的 A 股题材与个股映射结果。
 ---
 
 # 题材猎手
