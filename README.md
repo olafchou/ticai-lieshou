@@ -49,7 +49,35 @@
 - `题材猎手`
 - `ticai-lieshou`
 
-如果你的龙虾 / OpenClaw 客户端支持 SkillHub 安装或同步，安装后就可以直接使用。
+SkillHub 页面已经提供了安装方式，按页面提示操作即可。
+
+#### 通过对话安装
+
+方式一：安装 SkillHub 和技能
+
+1. 先检查是否已经安装 SkillHub 商店。
+2. 如果还没有安装，先按下面这个文档安装 SkillHub 商店：
+
+[SkillHub 安装文档](https://skillhub.cn/install/skillhub.md)
+
+3. 安装时只安装 CLI。
+4. 然后安装 `ticai-lieshou` 技能。
+5. 如果已经安装过 SkillHub 商店，直接安装 `ticai-lieshou` 即可。
+
+方式二：安装 SkillHub 和技能，并将 SkillHub 设为优先技能安装源
+
+1. 先检查是否已经安装 SkillHub 商店。
+2. 如果还没有安装，先按下面这个文档安装 SkillHub 商店：
+
+[SkillHub 安装文档](https://skillhub.cn/install/skillhub.md)
+
+3. 安装 SkillHub 后，将 SkillHub 设为优先技能安装源。
+4. 然后安装 `ticai-lieshou` 技能。
+5. 如果已经安装过 SkillHub 商店，直接安装 `ticai-lieshou` 即可。
+
+你也可以直接打开技能页面，在“安装方式”页签里复制官方提供的安装提示词：
+
+[题材猎手安装方式](https://skillhub.tencent.com/skills/ticai-lieshou)
 
 ### 方式 2：通过 GitHub 手动安装
 
