@@ -83,6 +83,18 @@ SkillHub 页面已经提供了安装方式，按页面提示操作即可。
 
 适合想自己维护、调试或二次修改的用户。
 
+#### 方式 A：直接对话安装
+
+如果你的龙虾 / OpenClaw 支持让助手根据 GitHub 仓库安装 skill，可以直接发送：
+
+```text
+https://github.com/olafchou/stock-ticai-lieshou 帮我安装一下这个skill
+```
+
+这是最省事的 GitHub 安装方式。
+
+#### 方式 B：手动复制到本地 skills 目录
+
 根据 OpenClaw 官方文档，技能可以放到以下目录之一：
 
 - 当前工作区的 `skills/`
@@ -95,8 +107,8 @@ SkillHub 页面已经提供了安装方式，按页面提示操作即可。
 1. 克隆仓库：
 
 ```bash
-git clone https://github.com/olafchou/ticai-lieshou.git
-cd ticai-lieshou
+git clone https://github.com/olafchou/stock-ticai-lieshou.git
+cd stock-ticai-lieshou
 ```
 
 2. 把 `ticai-lieshou/` 目录复制到你的 OpenClaw 技能目录，例如：
