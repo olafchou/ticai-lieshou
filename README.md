@@ -1,6 +1,6 @@
-# 题材猎手
+# 股票题材猎手
 
-`题材猎手` 是一个面向支持 skill 的 agent 环境的 A 股题材映射技能。
+`股票题材猎手` 是一个面向支持 skill 的 agent 环境的 A 股题材映射技能。
 
 它接收一段新闻、传闻、政策变化、突发事件或截图，不做冗长新闻总结，而是直接把事件映射成更可能相关的 A 股方向和个股，并用简洁表格给出概率、时间维度和分析理由。
 
@@ -38,46 +38,7 @@
 
 ### 方式 1：通过 SkillHub 安装
 
-如果你在龙虾 / OpenClaw 里使用技能，优先用这一种。
-
-可以直接在 SkillHub 安装：
-
-[题材猎手 - SkillHub](https://skillhub.tencent.com/skills/ticai-lieshou)
-
-也可以在 SkillHub 搜索：
-
-- `题材猎手`
-- `ticai-lieshou`
-
-SkillHub 页面已经提供了安装方式，按页面提示操作即可。
-
-#### 通过对话安装
-
-方式一：安装 SkillHub 和技能
-
-1. 先检查是否已经安装 SkillHub 商店。
-2. 如果还没有安装，先按下面这个文档安装 SkillHub 商店：
-
-[SkillHub 安装文档](https://skillhub.cn/install/skillhub.md)
-
-3. 安装时只安装 CLI。
-4. 然后安装 `ticai-lieshou` 技能。
-5. 如果已经安装过 SkillHub 商店，直接安装 `ticai-lieshou` 即可。
-
-方式二：安装 SkillHub 和技能，并将 SkillHub 设为优先技能安装源
-
-1. 先检查是否已经安装 SkillHub 商店。
-2. 如果还没有安装，先按下面这个文档安装 SkillHub 商店：
-
-[SkillHub 安装文档](https://skillhub.cn/install/skillhub.md)
-
-3. 安装 SkillHub 后，将 SkillHub 设为优先技能安装源。
-4. 然后安装 `ticai-lieshou` 技能。
-5. 如果已经安装过 SkillHub 商店，直接安装 `ticai-lieshou` 即可。
-
-你也可以直接打开技能页面，在“安装方式”页签里复制官方提供的安装提示词：
-
-[题材猎手安装方式](https://skillhub.tencent.com/skills/ticai-lieshou)
+[股票题材猎手 - SkillHub](https://skillhub.tencent.com/skills/ticai-lieshou)
 
 ### 方式 2：通过 GitHub 手动安装
 
